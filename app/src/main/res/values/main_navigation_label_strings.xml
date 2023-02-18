@@ -1,0 +1,5 @@
+<resources>
+    <string name="login_register_fragment">Konto</string>
+    <string name="account_fragment">Konto</string>
+    <string name="movies_fragment">Filmy</string>
+</resources>

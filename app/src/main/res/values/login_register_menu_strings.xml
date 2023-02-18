@@ -1,0 +1,4 @@
+<resources>
+    <string name="login_menu">Zaloguj</string>
+    <string name="register_menu">Zarejestruj</string>
+</resources>

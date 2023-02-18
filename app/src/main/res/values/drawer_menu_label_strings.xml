@@ -1,0 +1,5 @@
+<resources>
+    <string name="movies">Movies</string>
+    <string name="account">Account</string>
+    <string name="login_register">Login/Register</string>
+</resources>

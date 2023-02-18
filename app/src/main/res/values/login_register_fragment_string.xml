@@ -1,0 +1,14 @@
+<resources>
+    <string name="login_register_email_hint">Email</string>
+    <string name="login_register_password_hint">Hasło</string>
+    <string name="login_register_repeat_password_hint">Powtórz hasło</string>
+    <string name="login_register_forget_button_text">Zapomniałem hasła</string>
+
+    <string name="login_register_name_hint">Imię</string>
+    <string name="login_register_surname_hint">Nazwisko</string>
+    <string name="login_register_repeat_email_hint">Powtórz email</string>
+    <string name="login_register_phone_number_hint">Numer telefonu</string>
+
+    <string name="login_register_login_button_text">Zaloguj</string>
+    <string name="login_register_register_button_text">Zarejestruj</string>
+</resources>
